@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">文件浏览器</string>
+    <string name="label_choosed">已选择:</string>
+    <string name="label_file">文件:</string>
+    <string name="format_date">yyyy年MM月dd日</string>
+    <string name="mobile_storeage">手机存储</string>
+    <string name="size_over_limit">文件超出大小限制</string>
+    <string name="count_over_limit">文件超出数量限制</string>
+    <string name="no_files">没有文件</string>
+    <string name="ok">确定</string>
+    <string name="ok_with_nums">确定(%d/%d)</string>
+    <string name="no_read_storeage_permission"><![CDATA[打开权限：设置->文件浏览器->应用详情]]></string>
+</resources>
